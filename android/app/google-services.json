@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "334973234853",
+    "project_id": "cursos-teambr",
+    "storage_bucket": "cursos-teambr.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:334973234853:android:db9363ef1b436ef00d274c",
+        "android_client_info": {
+          "package_name": "com.teambr.iptvcursos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNx0rDxPPto5DJoqcDX4WVRPcFtdtmI6A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
